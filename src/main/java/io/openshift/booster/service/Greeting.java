@@ -31,7 +31,7 @@ public class Greeting {
     }
 
     public String getContent() {
-        return content;
+        return "This is not advised " + content;
     }
 }
 // end::snippet-greeting[]
